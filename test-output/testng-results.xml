@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suit" duration-ms="91" started-at="2020-07-24T05:45:26Z" finished-at="2020-07-24T05:45:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="91" started-at="2020-07-24T05:45:26Z" finished-at="2020-07-24T05:45:26Z">
+      <class name="quickacademy.RestAssuredTest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:quickacademy.RestAssuredTest@282ba1e]" name="deleteTwitter" duration-ms="2" started-at="2020-07-23T22:45:26Z" finished-at="2020-07-23T22:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:quickacademy.RestAssuredTest@282ba1e]" name="postJira" duration-ms="1" started-at="2020-07-23T22:45:26Z" finished-at="2020-07-23T22:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- quickacademy.RestAssuredTest -->
+      <class name="quickacademy.AppiumTest">
+        <test-method status="PASS" signature="IOSApp()[pri:0, instance:quickacademy.AppiumTest@50675690]" name="IOSApp" duration-ms="35" started-at="2020-07-23T22:45:26Z" finished-at="2020-07-23T22:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method status="PASS" signature="androidApp()[pri:0, instance:quickacademy.AppiumTest@50675690]" name="androidApp" duration-ms="3" started-at="2020-07-23T22:45:26Z" finished-at="2020-07-23T22:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidApp -->
+      </class> <!-- quickacademy.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suit -->
+</testng-results>
